@@ -1,0 +1,23 @@
+
+name: Arena Rush Bot Tests
+
+on:
+  push:
+  pull_request:
+
+jobs:
+  test:
+    name: Run Bot Tests
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Run test suite
+        run: python test_bot.py
