@@ -498,8 +498,3 @@ or multi-bot:
 
 ---
 
-## 📝 License
-
-This bot is ready for Arena Rush competition!
-
-Good luck! 🎮🤖
