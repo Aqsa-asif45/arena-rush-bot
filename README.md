@@ -1,5 +1,7 @@
 # Arena Rush Bot - Complete Testing & Development Guide
 
+[![Arena Rush Bot Tests](https://github.com/Aqsa-asif45/arena-rush-bot/actions/workflows/tests.yml/badge.svg)](https://github.com/Aqsa-asif45/arena-rush-bot/actions/workflows/tests.yml)
+
 ## 📋 Overview
 
 This is a **complete Arena Rush bot** with:
